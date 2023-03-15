@@ -1,0 +1,15 @@
+C:\Users\shane\source\repos\Working with Delegates and Events\Working with Delegates and Events\bin\Debug\net6.0\Working with Delegates and Events.exe
+C:\Users\shane\source\repos\Working with Delegates and Events\Working with Delegates and Events\bin\Debug\net6.0\Working with Delegates and Events.deps.json
+C:\Users\shane\source\repos\Working with Delegates and Events\Working with Delegates and Events\bin\Debug\net6.0\Working with Delegates and Events.runtimeconfig.json
+C:\Users\shane\source\repos\Working with Delegates and Events\Working with Delegates and Events\bin\Debug\net6.0\Working with Delegates and Events.dll
+C:\Users\shane\source\repos\Working with Delegates and Events\Working with Delegates and Events\bin\Debug\net6.0\Working with Delegates and Events.pdb
+C:\Users\shane\source\repos\Working with Delegates and Events\Working with Delegates and Events\obj\Debug\net6.0\Working with Delegates and Events.csproj.AssemblyReference.cache
+C:\Users\shane\source\repos\Working with Delegates and Events\Working with Delegates and Events\obj\Debug\net6.0\Working with Delegates and Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\Working with Delegates and Events\Working with Delegates and Events\obj\Debug\net6.0\Working with Delegates and Events.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\Working with Delegates and Events\Working with Delegates and Events\obj\Debug\net6.0\Working with Delegates and Events.AssemblyInfo.cs
+C:\Users\shane\source\repos\Working with Delegates and Events\Working with Delegates and Events\obj\Debug\net6.0\Working with Delegates and Events.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\Working with Delegates and Events\Working with Delegates and Events\obj\Debug\net6.0\Working with Delegates and Events.dll
+C:\Users\shane\source\repos\Working with Delegates and Events\Working with Delegates and Events\obj\Debug\net6.0\refint\Working with Delegates and Events.dll
+C:\Users\shane\source\repos\Working with Delegates and Events\Working with Delegates and Events\obj\Debug\net6.0\Working with Delegates and Events.pdb
+C:\Users\shane\source\repos\Working with Delegates and Events\Working with Delegates and Events\obj\Debug\net6.0\Working with Delegates and Events.genruntimeconfig.cache
+C:\Users\shane\source\repos\Working with Delegates and Events\Working with Delegates and Events\obj\Debug\net6.0\ref\Working with Delegates and Events.dll
